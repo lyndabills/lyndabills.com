@@ -10,7 +10,7 @@
     <title>Lynda Bills Watercolor Gallery</title>
     <meta name="description" content="Lynda Bills Watercolour Gallery" />
     <!--script src="http://127.0.0.1:9000/dist/aframe-master.js" /-->
-    <script src="https://aframe.io/dist/aframe-master.js" />
+    <script src="https://aframe.io/aframe/dist/aframe-master.min.js" />
     <script type="text/javascript">
 	    function addscene()
 	    {
