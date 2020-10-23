@@ -7,7 +7,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Lynda Bills Watercolor Gallery</title>
+    <title>Lynda Bills Watercolour Gallery</title>
     <meta name="description" content="Lynda Bills Watercolour Gallery" />
     <!--script src="http://127.0.0.1:9000/dist/aframe-master.js" /-->
     <script src="https://aframe.io/aframe/dist/aframe-master.min.js" />
